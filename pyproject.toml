@@ -1,0 +1,13 @@
+[project]
+name = "ki-wpf-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.6.3",
+    "matplotlib==3.10.9",
+    "pandas==3.0.3",
+    "scikit-learn==1.9.0",
+    "torch==2.12.0",
+]
